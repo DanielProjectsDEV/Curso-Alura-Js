@@ -1,0 +1,14 @@
+const num1 = 5;
+const num2 = 5;
+const resultado = num1 + num2;
+
+//Transformar em uma function
+
+
+
+//function soma(num1, num2) {
+ //   return num1 + num2;
+ //  }
+   
+ //  console.log(soma(5, 5))
+   
