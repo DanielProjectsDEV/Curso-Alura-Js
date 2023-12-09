@@ -19,3 +19,5 @@ const acesso = (nome) => {
     }
    return acesso(pessoa.nome)
   }
+  // git add .
+  // commit no github: git commit -m "nome do commit"
